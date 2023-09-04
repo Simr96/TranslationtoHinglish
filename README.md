@@ -24,18 +24,20 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/simr96/TranslationtoHinglish.git
 
 2. Install Required Dependencies
 pip install transformers
+install torch
+
 Run the Python script to translate English sentences to Hinglish. You can customize translations by modifying the replacement dictionary in the script.
 
-3. Usage
+4. Usage
 Modify the replacement_dict in the script to add or adjust word replacements for customized translations.
 
-4. Run the Python script with your English text as input:
+5. Run the Python script(python translate.py) with your English text as input: {Desired Input in English}
 
-python translate.py
+
 5. View the translated Hinglish text in the terminal.
 
 6. Customize
