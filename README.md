@@ -64,5 +64,5 @@ For this model, A combination of BLEU score and human evaluation would be a gera
   e. Collect scores from multiple evaluators to account for inter-rater reliability.
   f. Aggregate scores: Calculate the average scores for each aspect evaluated.
 
-  According to me Human Evaluation is the best approach as this will prelimarily be used to serve different purpose for humans based on their specific requirements.
+  According to me Human Evaluation is the best approach as this will prelimarily be used to serve different purpose for humans purposes based on their specific requirements.
 
